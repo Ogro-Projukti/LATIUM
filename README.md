@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<h1 align="center">LATIUM</h1>
-
 <p align="center">
   <strong>The Zero-Configuration Desktop Environment for Modern Document Creation</strong>
 </p>
