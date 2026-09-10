@@ -26,7 +26,7 @@ Forget about complex installations and environment setups. LATIUM bundles everyt
 LATIUM combines traditional writing tools with cutting-edge workflows. Here is everything included in the box:
 
 ### Core Experience
-- **Zero-Configuration Setup**: No need to manually install LaTeX compilers, Python, Node.js, or Git. It's all bundled into a single installer.
+- **Zero-Configuration Setup**: No need to manually install LaTeX compilers or Git. It's all bundled into a single installer.
 - **Multi-Format Editor**: Write seamlessly in LaTeX, Markdown, or Word (`.docx`) using our modern, compact interface with syntax highlighting and line numbers.
 - **Integrated PDF Compilation**: Experience instant previews using SwiftLaTeX alongside production-quality PDF compilation using Tectonic.
 - **Bidirectional SyncTeX**: Instantly jump between your source code and the exact corresponding location in the PDF preview.
