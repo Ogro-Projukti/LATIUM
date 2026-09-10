@@ -43,7 +43,7 @@ LATIUM combines traditional writing tools with cutting-edge workflows. Here is e
 - **Team Collaboration (LAN)**: Host a password-protected local network co-editing session. Teammates can join and edit documents in real-time with live remote cursors.
 - **Personal Wiki & Knowledge Graph**: Visualize how your documents connect. Automatically extracts smart tags from your writing and displays them in a beautiful Force-Graph visualization.
 - **Built-in Version Control**: Keep track of document history with our integrated Git panel. Connect your GitHub account seamlessly via OAuth to commit, push, and pull—no terminal required.
-- **Template Library**: Jumpstart your writing by browsing and downloading featured document templates directly from our remote library.
+- **Open-Source Template Library**: Jumpstart your writing by browsing and downloading featured document templates directly from our remote library. Want to contribute or see the source? Check out our [Open-Source LaTeX Templates Repository](https://github.com/Ogro-Projukti/latex-templates).
 - **LAN Cast (Beta)**: Securely cast and control your IDE session over the local network.
 
 ### Cloud Integration
